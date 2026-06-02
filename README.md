@@ -1,1 +1,1 @@
-# english-teacher-notebooklm
+english-learning-notebooklm
