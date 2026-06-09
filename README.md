@@ -83,10 +83,10 @@ Capacidade de conversar sobre trabalho, viagens, interesses e rotina de forma in
 
 # Glossário
 
- Termo -> Significado 
+ Termo - Significado 
 
- Listening -> Compreensão Auditiva 
-|Speaking -> Conversação 
+Listening - Compreensão Auditiva 
+Speaking - Conversação 
 
 # Conclusão
 
