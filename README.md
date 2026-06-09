@@ -11,7 +11,7 @@ Este projeto tem como objetivo utilizar o NotebookLM para:
 - Criar um professor virtual de inglês baseado em fontes confiáveis;
 - Construir um guia de estudos reutilizável.
 
-# Curadoria de Fontes
+# Fontes
 
 Seguem fontes adicionadas ao NotebookLM:
 
@@ -62,20 +62,39 @@ Quiz está em uma aba diferente.
 
 # Evidências
 
-## NotebookLM
-
-Notebook LM
-
-## Fontes
-
-Notebook LM Fontes
-
-## Testes de Prompts
-Notebook LM ten1
-Notebook LM ten2
-Notebook LM ten3
+Evidências anexadas na pasta
 
 # Miniguia
+
+## Nível A1:
+Capacidade de compreender expressões básicas para o dia a dia.
+
+## Nível A2:
+Capacidade de se comunicar e lidar com situações simples e rotineiras.
+
+## Nível B1:
+Capacidade de conversar sobre trabalho, viagens, interesses e rotina de forma independente.
+
+# Principais Aprendizados
+
+- A prática diária é importante para a fixação da gramática.
+- Listening e Speaking devem ser treinados desde o início.
+- Vocabulário é essencial para a evolução.
+
+# Glossário
+
+| Termo -> Significado |
+|---------|---------|
+| Listening -> Compreensão Auditiva |
+| Speaking -> Conversação |
+
+# Conclusão
+
+O NotebookLM demonstrou ser uma ferramenta para organizar conhecimento e apoiar o aprendizado de idiomas.
+
+Durante o projeto ficou evidente que a qualidade das respostas depende da qualidade dos prompts.
+
+A experiência também reforçou a importância das fontes e do uso da IA como ferramenta complementar ao processo de aprendizagem.
 
 
 
